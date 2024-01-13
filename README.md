@@ -3,11 +3,11 @@
 Mathematical coding problems 
 ----------------------------
 
-- [ ]  Prime Factorization
-- [ ]  GCD of two
+- [x]  Prime Factorization
+- [x]  GCD of two
 numbers
-- [ ]  Distribute in circle
-- [ ]  Josephus Problem
+- [x]  Distribute in circle
+- [x]  Josephus Problem
 <!-- - [ ]  Check if a number is a power of another number
 - [ ]  Check if a number is a Fibonacci number
 - [ ]  Check if a number is a Lucas number
@@ -18,7 +18,7 @@ numbers
 - [ ]  Check if a number is a Palindrome
 - [ ]  Check if a number is a Magic number
 - [ ]  Check if a number is a Happy number -->
-- [ ]  Check if a number is a Armstrong/Narcissistic number
+- [x]  Check if a number is a Armstrong/Narcissistic number
 
 Basic Sorting Algorithms
 ------------------------
@@ -36,7 +36,7 @@ Divide and Conquer algorithms
 Searching
 ---------
 - [x]  Linear
-- [ ]  Binary
+- [x]  Binary
 - [ ]  Ternary
 - [ ]  Jump
 - [ ]  Interpolation
